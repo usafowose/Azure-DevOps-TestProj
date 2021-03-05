@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-This is Evgeniya's update
 =======
 #Overview of QuaranTrip
 Using a web application a user should be able to input user's info, with this info the user can be advised on what destinations are possible for travel, or if a user's trip of choice is possible.
