@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\v-ktae\\Source\\Repos\\QuaranTrip\\Lab Group\\QuaranTrip\\QuaranTrip.csproj": {}
+    "C:\\Users\\v-aduboy\\Source\\Repos\\QuaranTrip\\Lab Group\\QuaranTrip\\QuaranTrip.csproj": {}
   },
   "projects": {
-    "C:\\Users\\v-ktae\\Source\\Repos\\QuaranTrip\\Lab Group\\QuaranTrip\\QuaranTrip.csproj": {
+    "C:\\Users\\v-aduboy\\Source\\Repos\\QuaranTrip\\Lab Group\\QuaranTrip\\QuaranTrip.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\v-ktae\\Source\\Repos\\QuaranTrip\\Lab Group\\QuaranTrip\\QuaranTrip.csproj",
+        "projectUniqueName": "C:\\Users\\v-aduboy\\Source\\Repos\\QuaranTrip\\Lab Group\\QuaranTrip\\QuaranTrip.csproj",
         "projectName": "QuaranTrip",
-        "projectPath": "C:\\Users\\v-ktae\\Source\\Repos\\QuaranTrip\\Lab Group\\QuaranTrip\\QuaranTrip.csproj",
-        "packagesPath": "C:\\Users\\v-ktae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\v-ktae\\Source\\Repos\\QuaranTrip\\Lab Group\\QuaranTrip\\obj\\",
+        "projectPath": "C:\\Users\\v-aduboy\\Source\\Repos\\QuaranTrip\\Lab Group\\QuaranTrip\\QuaranTrip.csproj",
+        "packagesPath": "C:\\Users\\v-aduboy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\v-aduboy\\Source\\Repos\\QuaranTrip\\Lab Group\\QuaranTrip\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\v-ktae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\v-aduboy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
