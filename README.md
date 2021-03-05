@@ -3,10 +3,10 @@ Using a web application a user should be able to input user's info, with this in
 
 ##Examples of input on the landing page:
 > ###Based on input, output the info about travel options. of departure is left empty, display possible destinations for travel.
-> * departure place
-> * arrival place
-> * citizenship
-> * reason for visit – traveler, visit family, medicine, study
+> * Departure place
+> * Arrival place
+> * Citizenship
+> * Reason for visit – traveler, visit family, medicine, study
 
 
 ##Examples of output once a request is made
