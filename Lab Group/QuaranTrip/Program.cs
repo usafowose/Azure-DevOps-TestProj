@@ -7,6 +7,7 @@ namespace QuaranTrip
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Who wants to go on a trip!");
         }
     }
 }
