@@ -18,3 +18,4 @@ Using a web application a user should be able to input user's info, with this in
 ###Extra options
 > * Group traveling
 > * Traveling with pets
+>>>>>>> master
