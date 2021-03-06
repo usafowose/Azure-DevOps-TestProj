@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\v-afowose\\.nuget\\packages\\": {},
+    "C:\\Users\\v-aduboy\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\v-afowose\\source\\repos\\QuaranTrip\\Lab Group\\QuaranTrip\\QuaranTrip.csproj",
+      "projectUniqueName": "C:\\Users\\v-aduboy\\Source\\Repos\\QuaranTrip\\Lab Group\\QuaranTrip\\QuaranTrip.csproj",
       "projectName": "QuaranTrip",
-      "projectPath": "C:\\Users\\v-afowose\\source\\repos\\QuaranTrip\\Lab Group\\QuaranTrip\\QuaranTrip.csproj",
-      "packagesPath": "C:\\Users\\v-afowose\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\v-afowose\\source\\repos\\QuaranTrip\\Lab Group\\QuaranTrip\\obj\\",
+      "projectPath": "C:\\Users\\v-aduboy\\Source\\Repos\\QuaranTrip\\Lab Group\\QuaranTrip\\QuaranTrip.csproj",
+      "packagesPath": "C:\\Users\\v-aduboy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\v-aduboy\\Source\\Repos\\QuaranTrip\\Lab Group\\QuaranTrip\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\v-afowose\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\v-aduboy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
